@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dwoam.github.io/Jfc/sitemap.Jfc.gz
